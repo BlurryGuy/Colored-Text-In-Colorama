@@ -1,1 +1,1 @@
-<a href="[http://google.com.au/](https://github.com/BlurryGuy/Colored-Text-In-Colorama)" rel="Picture:">![Foo]([http://www.google.com.au/images/nav_logo7.png](https://cdn.discordapp.com/attachments/1022998020918362133/1030813352508801124/unknown.png))</a>
+<a href="[[http://google.com.au/](https://github.com/BlurryGuy/Colored-Text-In-Colorama)](https://github.com/BlurryGuy/Colored-Text-In-Colorama)" rel="some text">Picture: (https://cdn.discordapp.com/attachments/1022998020918362133/1030813352508801124/unknown.png)</a>
